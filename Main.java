@@ -6,10 +6,10 @@ import java.math.BigDecimal;
 public class Main {
     public static void main(String args[])
             throws java.io.IOException {
-        Scanner in = new Scanner(System.in);
-        System.out.print("Введите a:");
-        double a = in.nextDouble();
-        double P = 4 * a;
-        System.out.println("Периметр квадрата:" + P);
+       Begin b1 = new Begin();
+       begin2 b2 = new begin2();
+//       b1.Begin1();
+        b2.BeginE2();
+
     }
         }
